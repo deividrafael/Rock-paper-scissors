@@ -1,4 +1,4 @@
-# Papel, pedra ou tesoura
+# Papel, pedra ou tesoura - utilizando Python
 
 Pedra, papel e tesoura, também chamado em algumas regiões do Brasil de jokempô[1][2] (do japonês じゃんけんぽん, jankenpon) é um jogo de mãos recreativo e simples para duas ou mais pessoas, que não requer equipamentos nem habilidade.
 
